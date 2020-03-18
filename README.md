@@ -3,4 +3,4 @@
 
 ex1 reuploaded
 
-ex2 uploaded
+ex2 uploaded(1 question included about Validation Set)
