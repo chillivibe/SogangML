@@ -1,3 +1,6 @@
+#SogangML
+
+#20151162 이종욱
 
 Question : in the ex2 ls1, I followed your instruction and made content/content/gdrive/mydrive/EastAsian/chinese..japanese..korean..uploadedcsvfiles
 
